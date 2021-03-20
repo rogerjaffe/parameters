@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Parameters
+comment0.text=\n\ Learn\ the\ difference\ between\ call\ by\ value\ and\ call\ by\ reference\n
+comment1.params=
+comment1.target=void\ master()
+comment1.text=\n\ Method\ to\ demonstrate\ calling\ parameters\ by\ value\ and\ by\ reference\n
+comment2.params=iM\ sM\ arrM\ arrayListM1\ arrayListM2
+comment2.target=void\ function(int,\ java.lang.String,\ int[],\ java.util.ArrayList,\ java.util.ArrayList)
+comment2.text=\n\ master\ calls\ this\ function\ to\ demonstrate\ calling\ parameters\n\ by\ value\ and\ by\ reference\n
+comment3.params=i\ s\ arr\ arrayList1\ arrayList2
+comment3.target=void\ toString(int,\ java.lang.String,\ int[],\ java.util.ArrayList,\ java.util.ArrayList)
+comment3.text=\n\ These\ are\ helper\ functions\ for\ the\ demonstrations\n
+comment4.params=
+comment4.target=void\ initialize()
+numComments=5
